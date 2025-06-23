@@ -34,10 +34,9 @@ This project demonstrates how to detect road lanes in a video using Python and O
 
 lane-detection/
 │
-├── lane_detection.py # Main script for lane detection
-├── lane_demo.mp4 # Sample demo video of lane detection
-├── README.md # Project documentation
-
+├── lane_detection.py       
+├── lane_demo.mp4           
+└── README.md    
 
 ---
 
