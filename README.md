@@ -4,11 +4,6 @@ This project demonstrates how to detect road lanes in a video using Python and O
 
 ![Lane Detection Output](https://user-images.githubusercontent.com/your-image-link/lane_detection.gif)
 
----
-## 🎥 Demo Video
-
-[▶️ Click here to watch the demo video](lane_demo.mp4)
-
 
 ---
 
@@ -27,16 +22,6 @@ This project demonstrates how to detect road lanes in a video using Python and O
 - Python 3.x
 - OpenCV
 - NumPy
-
----
-
-##  Project Structure
-
-lane-detection/
-│
-├── lane_detection.py    # Main script for lane detection
-├── lane_demo.mp4        # Sample demo video of lane detection
-└── README.md            # Project documentation
    
 
 ---
